@@ -1,0 +1,15 @@
+streamlit
+langchain
+langgraph
+langchain-openai
+openai
+langchain-community
+python-dotenv
+pydantic
+pandas
+numpy
+plotly
+yfinance
+faiss-cpu
+pyyaml
+tiktoken
